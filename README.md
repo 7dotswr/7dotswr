@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @7dotswr
 - 👀 I’m interested in Web Development and Desktop application Development
-- 🌱 I’m currently learning C++
+- 🌱 Currently using Windows Batch to make things.
 - 💞️ I’m looking to collaborate on making useful tools for free
 - 📫 How to reach me: Mails to "me.ytcon.7dots@gmail.com"
 
